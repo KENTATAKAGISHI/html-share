@@ -1,0 +1,99 @@
+.header-logo {
+    background: #4684b4;
+    height: 80px;px
+    float:left;
+}
+
+.top-wrapper {
+    background-image: url(https://www.jalan.net/news/img/2020/11/20201104_zenkenakide-to_ph01-670x443.jpg);
+    background-size:cover;
+    height: 500px;px;
+    text-align: center;
+}
+.btn {
+    padding:8px 24px;
+    color:white;
+    display: inline-block;
+    opacity:0.8;
+}
+
+.signup {
+    background-color:#239b76;
+}
+
+.facebook {
+    background-color:#3b5998;
+    margin-right:10px;
+}
+
+.twitter {
+    background-color:#55acee;
+}
+
+.btn-wrapper {
+  margin-top:20px;
+  margin-bottom:20px;  
+}
+
+.btn-wrapper p {
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.top-wrapper h1 {
+    color:white;
+    padding-top:100px;
+}
+
+.top-wrapper p {
+    color:white;
+    padding-top:20px;
+}
+
+.contents-letter {
+    float:left;
+}
+
+.contents-letter2 {
+    float:right;
+}
+
+.contents-letter h3 {
+    border-bottom:2px solid black;
+}
+
+.contents-letter2 h3 {
+    border-bottom: 2px solid black;
+}
+
+.contact-txt {
+    padding-top:250px;
+}
+
+.contact-txt h3 {
+    border-bottom:2px solid black;
+}
+
+input {
+    text-align: center;
+    float:left;
+}
+
+.footer-logo {
+    height:40px;
+    text-align: center;
+    padding-top:25px;
+    font-size:40px;
+}
+
+.contact-contents {
+    padding-top: 10px;
+}
+
+input {
+    padding:10px;
+}
+
+.textarea {
+    padding:10px;
+}
